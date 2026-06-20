@@ -1,16 +1,11 @@
-﻿# website-upload-861-243
+# 日韩影视网 纯静态网站
 
-Batch 243 of 44. Contains extracted static website versions. The original zip files are not committed.
+- 已解析影片数量：2000
+- 详情页数量：2000
+- 独立分类页数量：12
+- 首页：index.html
+- 分类总览：categories.html
+- 排行榜：rankings.html
+- 搜索页：search.html
 
-| Directory | Source zip |
-| --- | --- |
-| version-2421 | project-bolt-sb1-vj2dlxnx-chatgpt (1)_moved_20260608154019_0002.zip |
-| version-2422 | project-bolt-sb1-vj3adqbd-chatgpt (1)_moved_20260608154019_0002.zip |
-| version-2423 | project-bolt-sb1-vj3adqbd-chatgpt (1)_moved_20260608154019_0003.zip |
-| version-2424 | project-bolt-sb1-vjddazla-chatgpt (1)_moved_20260608154019_0002.zip |
-| version-2425 | project-bolt-sb1-vjvrsmvy - 副本-chatgpt (1)_moved_20260604114226_0001.zip |
-| version-2426 | project-bolt-sb1-vjvrsmvy-chatgpt (1).zip |
-| version-2427 | project-bolt-sb1-vjvrsmvy-chatgpt (1)_moved_20260608154019_0001.zip |
-| version-2428 | project-bolt-sb1-vk8bfgjw-chatgpt (1).zip |
-| version-2429 | project-bolt-sb1-vk8bfgjw-chatgpt (1)_moved_20260608154019_0001.zip |
-| version-2430 | project-bolt-sb1-vk8bfgjw-chatgpt (1)_moved_20260608154019_0002.zip |
+图片引用说明：页面已按要求引用网站顶级目录下的 1.jpg 到 150.jpg。当前上传素材包未包含这些图片文件，部署时可把对应图片放在网站根目录。
